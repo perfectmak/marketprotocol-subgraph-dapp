@@ -1,5 +1,5 @@
 {
-  "name": "ethdenver-dapp",
+  "name": "marketprotocol-subgraph-dapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -7,10 +7,12 @@
     "@material-ui/icons": "^3.0.2",
     "apollo-boost": "^0.1.28",
     "graphql": "^14.1.1",
+    "moment": "^2.24.0",
     "react": "^16.8.2",
     "react-apollo": "^2.4.1",
     "react-dom": "^16.8.2",
-    "react-scripts": "2.1.5"
+    "react-scripts": "2.1.5",
+    "react-scroll": "^1.7.11"
   },
   "scripts": {
     "start": "react-scripts start",
